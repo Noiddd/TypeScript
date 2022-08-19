@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza",
+    "price": 10.99,
+    "imgUrl": "/imgs/pizza.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ramen",
+    "price": 9.8,
+    "imgUrl": "/imgs/ramen.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Burgers",
+    "price": 7.59,
+    "imgUrl": "/imgs/burgers.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Pancakes",
+    "price": 5.39,
+    "imgUrl": "/imgs/pancakes.jpg"
+  }
+]
