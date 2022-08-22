@@ -22,5 +22,17 @@
     "name": "Pancakes",
     "price": 5.39,
     "imgUrl": "/imgs/pancakes.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Steak",
+    "price": 17.89,
+    "imgUrl": "/imgs/steak.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Ice Cream",
+    "price": 3.99,
+    "imgUrl": "/imgs/icecream.jpg"
   }
 ]
